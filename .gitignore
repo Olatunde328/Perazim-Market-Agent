@@ -1,0 +1,4 @@
+.env
+memory.json
+alerts.json
+node_modules
